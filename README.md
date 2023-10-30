@@ -1,6 +1,3 @@
-<h2 align="center">Hi, I'm Carlos</h2>
-<h2 align="center">Current Project: PolarCRM</h2>
-
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=angular,arduino,bash,css,express,firebase,git,github,gitlab,html,js,linux,matlab,mongodb,netlify,nodejs,py,raspberrypi,ros,ts,cpp,cmake,qt,vscode&perline=8">
