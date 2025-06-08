@@ -1,6 +1,6 @@
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=angular,arduino,bash,css,express,firebase,git,github,gitlab,html,js,linux,matlab,mongodb,netlify,nodejs,py,raspberrypi,ros,ts,cpp,cmake,qt,vscode&perline=8">
+  <img src="https://skillicons.dev/icons?i=angular,arduino,express,linux,mongodb,py,raspberrypi,ros,ts,cpp,cmake&perline=8">
 </p>
 
 <h2 align="center">GitHub Stats:</h2>
